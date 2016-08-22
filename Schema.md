@@ -63,6 +63,7 @@ And in other NoSQL database language, for example in ElasticSearch, It will look
           }
 ```
 
+Less word more clear. So I sum it in this table. 
 | C | Java | SQL | ElasticSearch |
 | --- | --- | --- | --- |
 | structure | fields | schema | mapping; or schema definition |
