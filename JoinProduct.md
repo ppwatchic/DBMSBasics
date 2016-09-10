@@ -4,4 +4,11 @@ Inner Join: For table A inner join B, the result represents the relationship of 
 
 Outer Join: the result represents the relationship of A union B. 
 
-![Image of Yaktocat](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
+A visual representation as below: 
+
+![Image of SQL Joins](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
+
+
+
+### Reference 
+1. [Image of SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
