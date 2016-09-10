@@ -1,3 +1,7 @@
-##LEFT JOIN, RIGHT JOIN and INNER JOIN
-**A**`Left Join`: is except, which means all elements from Table1 except those also contains in Table2. Same as `NOT IN`. 
-`Right Join`: 
+## INNER JOIN VS OUTER JOIN
+
+Inner Join: For table A inner join B, the result represents the relationship of A intersecting B. 
+
+Outer Join: the result represents the relationship of A union B. 
+
+![Image of Yaktocat](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
