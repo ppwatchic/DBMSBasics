@@ -1,1 +1,9 @@
-# DBMSBasics
+# DBMS Basics
+
+Notes jotted down during self-learning process. 
+
+Table of Contents
+* Basics
+ * Joins
+ * Indexes
+ * Simple Queries
