@@ -7,3 +7,6 @@ Table of Contents
  * Joins
  * Indexes
  * Simple Queries
+ * Union
+ * Sorting
+ * IN clause
